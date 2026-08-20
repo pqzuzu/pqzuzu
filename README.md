@@ -4,7 +4,7 @@
 
 #  ^. .^₎⟆
 
-### `Programmer` • `Cybersecurity Learner` • `Data Analyst` • `2D/3D Artist`
+### `Cybersecurity Learner` • `Data Analyst` • `2D/3D Artist`
 
 > learning, creating, breaking, fixing.
 
