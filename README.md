@@ -21,7 +21,7 @@
 
 ### Helloooooo!
 
-I'm **pqzuzu**, a student and technology enthusiast from Indonesia who enjoys exploring **programming, cybersecurity, data analysis, and digital art**.
+I'm **Keyla Nadira**, a student and technology enthusiast from Indonesia who enjoys exploring **programming, cybersecurity, data analysis, and digital art**.
 
 - 🇮🇩 Based in Indonesia
 - 💻 Programming learner
