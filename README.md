@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=ᨐฅ&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=180&section=header&text=𓏲ּ𝄢&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
 #  ^. .^₎⟆
 
