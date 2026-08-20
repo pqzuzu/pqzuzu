@@ -43,7 +43,7 @@ I'm **pqzuzu**, a student and technology enthusiast from Indonesia who enjoys ex
 
 ### ✎ᝰ. 2D Art
 
-<img src="IMAGE_2D_KAMU" width="250">
+<img src="2d-art.jpg" width="250">
 
 </td>
 
@@ -51,7 +51,7 @@ I'm **pqzuzu**, a student and technology enthusiast from Indonesia who enjoys ex
 
 ### ✎ᝰ. 3D Art
 
-<img src="IMAGE_3D_KAMU" width="250">
+<img src="3d-art.jpg" width="250">
 
 </td>
 
@@ -59,7 +59,7 @@ I'm **pqzuzu**, a student and technology enthusiast from Indonesia who enjoys ex
 
 ###  . 📽.ᐟ Experiments
 
-<img src="IMAGE_LAINNYA" width="250">
+<img src="teater.JPG" width="250">
 
 </td>
 
