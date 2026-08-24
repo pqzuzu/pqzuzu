@@ -22,7 +22,7 @@
 
 ### Helloooooo!
 
-I'm **Keyla Nadira**, a student and technology enthusiast from Indonesia who enjoys exploring **programming, cybersecurity, data analysis, and digital art**.
+I'm **Keyla Nadira**, a student and technology enthusiast from Indonesia who enjoys exploring **cybersecurity, data analysis, and digital art**.
 
 - 🇮🇩 Based in Indonesia
 - 🔐 Currently learning Cybersecurity
