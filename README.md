@@ -60,9 +60,6 @@ I'm **Keyla Nadira**, a student and technology enthusiast from Indonesia who enj
 
 <td align="center" width="33%">
 
-###  . 📽.ᐟ Experiments
-
-<img src="teater.JPG" width="250">
 
 </td>
 
